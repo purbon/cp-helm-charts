@@ -3,7 +3,7 @@ entries:
   cp-helm-charts:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-03-21T09:32:10.69294+01:00"
+    created: "2020-03-21T17:59:32.925532+01:00"
     dependencies:
     - condition: cp-kafka.enabled
       name: cp-kafka
@@ -41,7 +41,7 @@ entries:
     version: 0.4.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-03-21T09:32:10.705936+01:00"
+    created: "2020-03-21T17:59:32.939527+01:00"
     dependencies:
     - condition: cp-kafka.enabled
       name: cp-kafka
@@ -79,7 +79,7 @@ entries:
     version: 0.4.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-03-21T09:32:10.701866+01:00"
+    created: "2020-03-21T17:59:32.934601+01:00"
     dependencies:
     - condition: cp-kafka.enabled
       name: cp-kafka
@@ -117,7 +117,7 @@ entries:
     version: 0.4.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-03-21T09:32:10.696973+01:00"
+    created: "2020-03-21T17:59:32.930457+01:00"
     dependencies:
     - condition: cp-kafka.enabled
       name: cp-kafka
@@ -149,4 +149,4 @@ entries:
     urls:
     - https://purbon.github.io/cp-helm-charts/docs/cp-helm-charts-0.1.0.tgz
     version: 0.1.0
-generated: "2020-03-21T09:32:10.686591+01:00"
+generated: "2020-03-21T17:59:32.920535+01:00"
